@@ -1,4 +1,4 @@
-#nway
+## nway
 
 Very quickly sorts files using *nix `sort` command, in parallel, using all cores.
 
